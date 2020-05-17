@@ -1,0 +1,19 @@
+{
+  "name": "flickr-downloadr-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "download": "^8.0.0",
+    "flickr-sdk": "^3.9.0",
+    "log4js": "^6.2.1",
+    "promise-retry": "^1.1.1"
+  }
+}
