@@ -13,7 +13,7 @@
     "async": "^3.2.0",
     "download": "^8.0.0",
     "flickr-sdk": "^3.9.0",
-    "log4js": "^6.2.1",
+    "log4js": "^6.4.0",
     "promise-retry": "^1.1.1"
   }
 }
