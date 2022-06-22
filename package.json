@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "download": "^8.0.0",
     "flickr-sdk": "^3.9.0",
     "log4js": "^6.2.1",
